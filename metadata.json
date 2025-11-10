@@ -1,0 +1,5 @@
+{
+  "name": "ClockDG - Your Time Companion",
+  "description": "A modern, offline-first clock web application featuring a world clock, alarms, stopwatch, calendar, and customizable themes. Designed to work seamlessly across all devices with a clean, centered, and responsive UI.",
+  "requestFramePermissions": []
+}
